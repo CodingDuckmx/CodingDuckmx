@@ -1,7 +1,7 @@
 
 
 <!--
-**CodingDuckmx/CodingDuckmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodingDuckmx/CodingDuckmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h5 align="right">
 <a href="/index_es.html">Español</a>
@@ -26,6 +26,6 @@
 </p>
 
 
-### Hi there 👋. Welcome to my GitHub. I'd love to hear your comments. 
+<h3 align="center">  Hi there 👋. Welcome to my GitHub. I'd love to review your pull requests. </h3>
 
 <br>
