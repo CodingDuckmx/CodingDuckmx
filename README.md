@@ -1,19 +1,7 @@
-### Hi there 👋
+
 
 <!--
 **CodingDuckmx/CodingDuckmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h5 align="right">
 <a href="/index_es.html">Español</a>
@@ -24,14 +12,6 @@ Here are some ideas to get you started:
 		alt="coding duck MX"
 		src="https://raw.githubusercontent.com/CodingDuckmx/hello-world/master/codingduckMX_logo.jpeg?sanitize=true">
 </h1>
-
-<h2 align="center">
-	Jesús Caballero Medrano
-</h2>
-
-<h3 align="center">
-	Data Scientist // Mathematician
-</h3>
 
 <p align="center">
 	<strong>
@@ -46,6 +26,6 @@ Here are some ideas to get you started:
 </p>
 
 
-I'm a Mathematician who decided to learn to code, applying my background in Statistics to become a Data Scientist.  I have experience in Start-ups and e-commerce, willing to crush it on the Data Science field. 
+### Hi there 👋. Welcome to my GitHub. I'd love to hear your comments. 
 
 <br>
